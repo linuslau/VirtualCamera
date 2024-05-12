@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# kz
+# Visual Studio 2022 cache/options directory
+.vs/
+vCam/x64/
+x64/
